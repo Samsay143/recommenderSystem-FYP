@@ -17,25 +17,25 @@ Naive Bayes - Multinomial and Bernoulli
 LSTM
 
 Recommender system:
-k-Nearest Neighbors is used to perform item-based collaborative filtering
+1. k-Nearest Neighbors is used to perform item-based collaborative filtering
 
-Login and registration feature for manager and the salesperson with simultaneous data storage on the server.
+2. Login and registration feature for manager and the salesperson with simultaneous data storage on the server.
 
-Sales Manager and salesperson can update their profile details.
+3. Sales Manager and salesperson can update their profile details.
 
-App displays all the commodities present in the inventory which the manager can add.
+4. App displays all the commodities present in the inventory which the manager can add.
 
-Sales Manager can view the profile of the salespersons but the salesperson can only view his profile.
+5. Sales Manager can view the profile of the salespersons but the salesperson can only view his profile.
 
-Leaderboard of the top 10 salespersons.
+6. Leaderboard of the top 10 salespersons.
 
-A global chat room for the salespersons and the sales manager as well as personal chat for the salesperson and sales manager.
+7. A global chat room for the salespersons and the sales manager as well as personal chat for the salesperson and sales manager.
 
-Recommendation algorithm based on the salesperson’s sales to assign him a future target so that he can maximize the profit.
+8. Recommendation algorithm based on the salesperson’s sales to assign him a future target so that he can maximize the profit.
 
-Image compression before uploading data on server to reduce server data.
+9. Image compression before uploading data on server to reduce server data.
 
-Graphs to show the salesperson progress over time.
+10. Graphs to show the salesperson progress over time.
 
-Pie graph to give profit analysis to the sales manager.
+11. Pie graph to give profit analysis to the sales manager.
 
