@@ -9,9 +9,12 @@ In our final year project we are taking into consideration the amazon review dat
 Based on these input factors, sentiment analysis is performed on predicting the helpfulness of the reviews. Moreover, we also designed item-based collaborative filtering model based on k-Nearest Neighbors to find the 2 most similar items.
 
 Algorithms performed
+
 Sentiment analysis:
+
 Logistic Regression
 Naive Bayes - Multinomial and Bernoulli
 LSTM
+
 Recommender system:
 k-Nearest Neighbors is used to perform item-based collaborative filtering
