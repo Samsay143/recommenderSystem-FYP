@@ -16,8 +16,8 @@ An app to manage your sales team efficiently.
 - Pie graph to give profit analysis to the sales manager.
 
 # Team members :
-Sambit Chakraborty
-Saurav Kumar
+-Sambit Chakraborty
+-Saurav Kumar
 
 # Screenshots :
 
