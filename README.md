@@ -16,9 +16,8 @@ An app to manage your sales team efficiently.
 - Pie graph to give profit analysis to the sales manager.
 
 # Team members :
-- [Kartik Mahendru](https://github.com/kartikMahendru)
-- [Mehul Garg](https://github.com/gargmehul10)
-- [Utkarsh Garg](https://github.com/utkarsh22garg)
+Sambit Chakraborty
+Saurav Kumar
 
 # Screenshots :
 
