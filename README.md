@@ -1,5 +1,5 @@
 # SalesManagement
-An app to manage your sales team efficiently.
+An app to manage sales and recommend better profit and sales analysis for a retailer.
 
 # Basic Features Implemented :
 - Login and registration feature for manager and the salesperson with simultaneous data storage on the server.
@@ -16,8 +16,8 @@ An app to manage your sales team efficiently.
 - Pie graph to give profit analysis to the sales manager.
 
 # Team members :
--Sambit Chakraborty
--Saurav Kumar
+- Sambit Chakraborty
+- Saurav Kumar
 
 # Screenshots :
 
